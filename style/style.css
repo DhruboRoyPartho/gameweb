@@ -98,6 +98,9 @@ body {
     .sponsor-container {
         max-width: 100%; /* Full-width on mobile */
     }
+    img{
+        padding-bottom: 5px;
+    }
 }
 
 /* Main body container */
